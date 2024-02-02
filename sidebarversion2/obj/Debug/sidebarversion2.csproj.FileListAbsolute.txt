@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\sidebarversion2\sidebarversion2\bin\Debug\sidebarversion2.exe.config
+C:\Users\Acer\source\repos\sidebarversion2\sidebarversion2\bin\Debug\sidebarversion2.exe
+C:\Users\Acer\source\repos\sidebarversion2\sidebarversion2\bin\Debug\sidebarversion2.pdb
+C:\Users\Acer\source\repos\sidebarversion2\sidebarversion2\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Acer\source\repos\sidebarversion2\sidebarversion2\bin\Debug\Guna.UI2.dll
+C:\Users\Acer\source\repos\sidebarversion2\sidebarversion2\obj\Debug\sidebarversion2.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\sidebarversion2\sidebarversion2\obj\Debug\sidebarversion2.Form1.resources
+C:\Users\Acer\source\repos\sidebarversion2\sidebarversion2\obj\Debug\sidebarversion2.Properties.Resources.resources
+C:\Users\Acer\source\repos\sidebarversion2\sidebarversion2\obj\Debug\sidebarversion2.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\sidebarversion2\sidebarversion2\obj\Debug\sidebarversion2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\sidebarversion2\sidebarversion2\obj\Debug\sidebarversion2.csproj.CopyComplete
+C:\Users\Acer\source\repos\sidebarversion2\sidebarversion2\obj\Debug\sidebarversion2.exe
+C:\Users\Acer\source\repos\sidebarversion2\sidebarversion2\obj\Debug\sidebarversion2.pdb
+C:\Users\Acer\source\repos\sidebarversion2\sidebarversion2\bin\Debug\ReaLTaiizor.dll
+C:\Users\Acer\source\repos\sidebarversion2\sidebarversion2\obj\Debug\sidebarversion2.Form2.resources
+C:\Users\Acer\source\repos\sidebarversion2\sidebarversion2\bin\Debug\DevComponents.DotNetBar2.xml
